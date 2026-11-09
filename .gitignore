@@ -1,0 +1,5 @@
+tinyshakespeare.txt
+__pycache__/
+*.pyc
+results.tex
+fig_pilot.pdf
