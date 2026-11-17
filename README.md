@@ -5,7 +5,7 @@
 This repository contains the code, raw results and preprint for:
 
 > **The Cellular Data Center: An In-Silico, Falsifiable Blueprint for Language Machines Built on Living Neural Tissue**
-> Md Rejaul Korim Sadi, Azuhad Islam Ruhan, Dewan Fahad Chowdhury (2026). Preprint: [`paper/Cellular_Data_Center_preprint.pdf`](paper/Cellular_Data_Center_preprint.pdf)
+> Md Rejaul Korim Sadi, Azuad Islam Ruhan, Dewan Fahad Chowdhury (2026). Preprint: [`paper/Cellular_Data_Center_preprint.pdf`](paper/Cellular_Data_Center_preprint.pdf)
 
 No living tissue is used here. Every neuron in this repository is simulated.
 
@@ -163,7 +163,7 @@ Contact: Md Rejaul Korim Sadi, rejaulkorimsadi@gmail.com
 ```bibtex
 @misc{sadi2026cellular,
   title  = {The Cellular Data Center: An In-Silico, Falsifiable Blueprint for Language Machines Built on Living Neural Tissue},
-  author = {Sadi, Md Rejaul Korim and Ruhan, Azuhad Islam and Chowdhury, Dewan Fahad},
+  author = {Sadi, Md Rejaul Korim and Ruhan, Azuad Islam and Chowdhury, Dewan Fahad},
   year   = {2026},
   note   = {Preprint}
 }
